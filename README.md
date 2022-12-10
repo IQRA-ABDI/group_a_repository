@@ -1,0 +1,8 @@
+--Time-Table for group A    
+- 1:book: 12 chapters < every day 3 chapter = 4 days
+- 2:Freecodecamp 5 sections < every day 1 section =5 days
+-3:Refactoring UI 8 Chapters < every day 2 chapter= 4 days
+--Requirements
+- 1: in update la iska siiyo maalin walbo waxii aan qabano iyo buugagta aan soo aqrinay
+- 2: in githubka lasaaro practiseka
+-3: inaa meeting yeelano habeen kaste 9:00pm
